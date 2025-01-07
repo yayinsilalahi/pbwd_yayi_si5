@@ -16,10 +16,10 @@
         <thead style="background-color: rgba(255, 0, 128, 0.884);">
             <tr>
                 <th style="text-align: center">No</th>
-                <th>Nama Prodi</th>
-                <th>Fakultas</th>
-                <th>Kaprodi</th>
-                <th>Sekprodi</th>
+                <th style="text-align: center">Nama Prodi</th>
+                <th style="text-align: center">Fakultas</th>
+                <th style="text-align: center">Kaprodi</th>
+                <th style="text-align: center">Sekprodi</th>
             </tr>
         </thead>
         <tbody>
